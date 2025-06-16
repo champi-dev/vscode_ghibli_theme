@@ -83,7 +83,7 @@ All color combinations have been tested to ensure WCAG AA compliance for contras
 
 ## Contributing
 
-Found an issue or have a suggestion? Please visit our [GitHub repository](https://github.com/yourusername/ghibli-theme) and open an issue or pull request.
+Found an issue or have a suggestion? Please visit our [GitHub repository](https://github.com/champi-dev/vscode_ghibli_theme) and open an issue or pull request.
 
 ## License
 
@@ -93,6 +93,6 @@ This theme is released under the MIT License. Studio Ghibli and all related name
 
 Inspired by the beautiful works of Hayao Miyazaki and Studio Ghibli. May your code be as magical as their films!
 
----
+## Support
 
-*"The creation of a single world comes from a huge number of fragments and chaos." - Hayao Miyazaki*
+If you enjoy this theme, please consider rating it on the VS Code Marketplace!

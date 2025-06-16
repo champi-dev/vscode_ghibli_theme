@@ -1,7 +1,7 @@
 {
   "name": "ghibli-theme",
   "displayName": "Studio Ghibli Theme",
-  "description": "A VS Code theme inspired by the magical worlds of Studio Ghibli films",
+  "description": "A calming VS Code theme with nature-inspired colors featuring soft pastels and earth tones",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
@@ -11,22 +11,22 @@
   ],
   "keywords": [
     "theme",
-    "ghibli",
-    "studio ghibli",
-    "anime",
-    "totoro",
-    "spirited away",
+    "color theme",
     "light theme",
-    "dark theme"
+    "dark theme",
+    "nature",
+    "forest",
+    "sky",
+    "calm"
   ],
   "icon": "icon.png",
   "author": {
     "name": "Studio Ghibli Theme Contributors"
   },
-  "publisher": "ghibli-themes",
+  "publisher": "ghiblistuff",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ghibli-theme"
+    "url": "https://github.com/champi-dev/vscode_ghibli_theme"
   },
   "contributes": {
     "themes": [
@@ -55,9 +55,9 @@
   },
   "badges": [
     {
-      "url": "https://img.shields.io/badge/Studio%20Ghibli-Inspired-87CEEB",
-      "href": "https://github.com/yourusername/ghibli-theme",
-      "description": "Inspired by Studio Ghibli"
+      "url": "https://img.shields.io/badge/Nature-Inspired-87CEEB",
+      "href": "https://github.com/champi-dev/vscode_ghibli_theme",
+      "description": "Nature-inspired color theme"
     }
   ]
 }
