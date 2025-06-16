@@ -27,6 +27,7 @@ A magical VS Code theme inspired by the enchanting worlds of Studio Ghibli films
 
 ## Installation
 
+### From VS Code Marketplace
 1. Open VS Code
 2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
 3. Search for "Studio Ghibli Theme"
@@ -34,6 +35,13 @@ A magical VS Code theme inspired by the enchanting worlds of Studio Ghibli films
 5. Select the theme:
    - Press Ctrl+K Ctrl+T (Cmd+K Cmd+T on macOS)
    - Choose "Ghibli Day" or "Ghibli Night"
+
+### From VSIX file
+1. Download the `.vsix` file from the releases page
+2. Open VS Code
+3. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+4. Click the `...` menu and select "Install from VSIX..."
+5. Select the downloaded file
 
 ## Color Philosophy
 
