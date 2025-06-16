@@ -1,0 +1,63 @@
+{
+  "name": "ghibli-theme",
+  "displayName": "Studio Ghibli Theme",
+  "description": "A VS Code theme inspired by the magical worlds of Studio Ghibli films",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "ghibli",
+    "studio ghibli",
+    "anime",
+    "totoro",
+    "spirited away",
+    "light theme",
+    "dark theme"
+  ],
+  "icon": "icon.png",
+  "author": {
+    "name": "Studio Ghibli Theme Contributors"
+  },
+  "publisher": "ghibli-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ghibli-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ghibli Day",
+        "uiTheme": "vs",
+        "path": "./themes/ghibli-day-color-theme.json"
+      },
+      {
+        "label": "Ghibli Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ghibli-night-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  },
+  "galleryBanner": {
+    "color": "#87CEEB",
+    "theme": "light"
+  },
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/Studio%20Ghibli-Inspired-87CEEB",
+      "href": "https://github.com/yourusername/ghibli-theme",
+      "description": "Inspired by Studio Ghibli"
+    }
+  ]
+}

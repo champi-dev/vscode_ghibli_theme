@@ -1,0 +1,17 @@
+The icon.png file should contain a 128x128 pixel image that represents the Studio Ghibli theme. Here are the specifications for what it should contain:
+
+**Icon Design Description:**
+- Background: Soft gradient from sky blue (#87CEEB) at the top to forest green (#4A7C59) at the bottom
+- Central Element: A stylized leaf or tree symbol in the center, representing the nature themes prevalent in Ghibli films
+- Accent: Small touches of sunset orange (#FFA07A) to add warmth
+- Style: Simple, clean, and recognizable at small sizes
+- Format: PNG with transparent areas if needed
+- Dimensions: 128x128 pixels
+
+The icon should evoke the feeling of Ghibli films without using copyrighted characters. Think of elements like:
+- Floating leaves
+- Stylized clouds
+- Abstract forest shapes
+- Gentle curves and organic forms
+
+This icon will appear in the VS Code extensions marketplace and in the extensions sidebar.
